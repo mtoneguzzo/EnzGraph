@@ -1,0 +1,26 @@
+acc	entry	organism	length	ec_list	pfam_list	pdb_list	reviewed	xref_cazy	xref_esther
+P0DX29	PETH1_AMYMS	Amycolatopsis mediterranei (strain S699) (Nocardia mediterranei)	309	3.1.1.1; 3.1.1.3; 3.1.1.74	PF12740;		reviewed		
+P52956	CUTI1_ASPOR	Aspergillus oryzae (strain ATCC 42149 / RIB 40) (Yellow koji mold)	213	3.1.1.74	PF01083;	3GBS;3QPD;	reviewed		Cutinase
+Q00298	CUTI_BOTFU	Botryotinia fuckeliana (Noble rot fungus) (Botrytis cinerea)	202	3.1.1.74	PF01083;		reviewed		Cutinase
+P11373	CUTI1_COLGL	Colletotrichum gloeosporioides (Anthracnose fungus) (Glomerella cingulata)	224	3.1.1.74	PF01083;	3DCN;3DD5;3DEA;	reviewed		Cutinase
+P86010	CUTI1_COLKA	Colletotrichum kahawae (Coffee berry disease fungus)	7	3.1.1.74			reviewed		
+P10951	CUTI_COLTU	Colletotrichum truncatum (Anthracnose fungus) (Colletotrichum capsici)	228	3.1.1.74	PF01083;		reviewed		Cutinase
+B9U443	CUTI1_COPCI	Coprinopsis cinerea (Inky cap fungus) (Hormographiella aspergillata)	199	3.1.1.74	PF01083;		reviewed		Cutinase
+Q5AVY9	CUTI2_EMENI	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139) (Aspergillus nidulans)	255	3.1.1.74	PF01083;		reviewed		Cutinase
+Q5AX00	CUTI3_EMENI	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139) (Aspergillus nidulans)	221	3.1.1.74	PF01083;		reviewed		Cutinase
+P00590	CUTI1_FUSVN	Fusarium vanettenii (Neocosmospora pisi)	230	3.1.1.74	PF01083;	1AGY;1CEX;1CUA;1CUB;1CUC;1CUD;1CUE;1CUF;1CUG;1CUH;1CUI;1CUJ;1CUS;1CUU;1CUV;1CUW;1CUX;1CUY;1CUZ;1FFA;1FFB;1FFC;1FFD;1FFE;1OXM;1XZA;1XZB;1XZC;1XZD;1XZE;1XZF;1XZG;1XZH;1XZI;1XZJ;1XZK;1XZL;1XZM;2CUT;3EF3;3ESA;3ESB;3ESC;3ESD;3QPA;3QPC;	reviewed		Cutinase
+A0A024SC78	CUTI1_HYPJR	Hypocrea jecorina (strain ATCC 56765 / BCRC 32924 / NRRL 11460 / Rut C-30) (Trichoderma reesei)	248	3.1.1.74	PF01083;	4PSC;4PSD;4PSE;	reviewed		Cutinase
+A6WFI5	CUTI_KINRD	Kineococcus radiotolerans (strain ATCC BAA-149 / DSM 14245 / SRS30216)	294	3.1.1.74	PF01083;		reviewed		Cutinase
+Q9Y7G8	CUTI_PYRBR	Pyrenopeziza brassicae	203	3.1.1.74	PF01083;		reviewed		Cutinase
+G4MZV6	CUTI2_PYRO7	Pyricularia oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958) (Rice blast fungus) (Magnaporthe oryzae)	214	3.1.1.74	PF01083;		reviewed		Cutinase
+D4Q9N1	PETH1_THEAE	Thermobifida alba (Thermomonospora alba)	296	3.1.1.101; 3.1.1.74	PF12740;		reviewed		Polyesterase-lipase-cutinase
+F7IX06	PETH2_THEAE	Thermobifida alba (Thermomonospora alba)	300	3.1.1.101; 3.1.1.74	PF12740;	3VIS;3WYN;6AID;	reviewed		Polyesterase-lipase-cutinase
+E9LVH8	PETH1_THECS	Thermobifida cellulosilytica	262	3.1.1.101; 3.1.1.74	PF12740;	5LUI;	reviewed		Polyesterase-lipase-cutinase
+E9LVH9	PETH2_THECS	Thermobifida cellulosilytica	262	3.1.1.101; 3.1.1.74	PF12740;	5LUJ;5LUK;5LUL;7QJS;	reviewed		Polyesterase-lipase-cutinase
+G8GER6	PETH1_THEFU	Thermobifida fusca (Thermomonospora fusca)	319	3.1.1.101; 3.1.1.74	PF12740;		reviewed		Polyesterase-lipase-cutinase
+Q6A0I4	PETH2_THEFU	Thermobifida fusca (Thermomonospora fusca)	301	3.1.1.101; 3.1.1.74	PF12740;	4CG1;4CG2;4CG3;5ZOA;7QJQ;7QJR;	reviewed		Polyesterase-lipase-cutinase
+Q47RJ6	PETH2_THEFY	Thermobifida fusca (strain YX)	301	3.1.1.101; 3.1.1.74	PF12740;		reviewed		Polyesterase-lipase-cutinase
+Q47RJ7	PETH1_THEFY	Thermobifida fusca (strain YX)	319	3.1.1.101; 3.1.1.74	PF12740;		reviewed		Polyesterase-lipase-cutinase
+A8QPD8	CUTI1_TRIHA	Trichoderma harzianum (Hypocrea lixii)	248	3.1.1.74	PF01083;		reviewed		Cutinase
+G9BY57	PETH_UNKP	Unknown prokaryotic organism	293	3.1.1.101; 3.1.1.74	PF12740;	4EB0;6THS;6THT;7VVC;7VVE;7W1N;7W44;7W45;8CMV;8JMO;8JMP;8OTA;8QRJ;	reviewed		Polyesterase-lipase-cutinase
+A0A2J8C362	CUTI1_VERDA	Verticillium dahliae (Verticillium wilt)	295	3.1.1.74	PF00734;PF01083;		reviewed		

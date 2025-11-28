@@ -1,0 +1,42 @@
+name: bionexus-env
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+
+dependencies:
+  # Núcleo Python
+  - python=3.10
+  - pip
+
+  # Ciencia de datos básica
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+
+  # Bio / HMMER
+  - biopython
+  - hmmer        # <-- aquí vienen hmmfetch, hmmpress, hmmsearch, etc.
+
+  # Jupyter y entorno interactivo
+  - jupyterlab
+  - ipykernel
+  - ipywidgets
+
+  # Visualización
+  - matplotlib
+  - seaborn
+  - graphviz
+  - python-graphviz
+
+  # Utilidades varias
+  - requests
+  - tqdm
+
+  - pip:
+      # Solo cosas realmente usadas en estos notebooks. Si no usas nada de esto, puedes vaciar esta sección.
+      # (Por ahora lo dejaría vacío o añadiría aquí solo paquetes pip estrictamente necesarios.)
+      # - algo==x.y.z
+      # Para tu caso actual puedes dejarlo así:
+      - rich

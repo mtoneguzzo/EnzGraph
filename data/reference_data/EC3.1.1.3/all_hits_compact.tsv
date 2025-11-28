@@ -1,0 +1,26 @@
+acc	entry	organism	length	ec_list	pfam_list	pdb_list	reviewed	xref_cazy	xref_esther
+P30122	CEL_BOVIN	Bos taurus (Bovine)	597	3.1.1.13; 3.1.1.3; 3.1.1.6	PF00135;	1AKN;1AQL;2BCE;	reviewed		Cholesterol_esterase
+Q2KI18	PLPL2_BOVIN	Bos taurus (Bovine)	486	3.1.1.3; 3.1.1.4	PF01734;		reviewed		
+Q11186	PLPL2_CAEEL	Caenorhabditis elegans	621	3.1.1.3	PF01734;		reviewed		
+O94830	DDHD2_HUMAN	Homo sapiens (Human)	711	3.1.1.-; 3.1.1.3	PF02862;PF00536;PF02825;PF23464;		reviewed		
+P07098	LIPF_HUMAN	Homo sapiens (Human)	398	3.1.1.3	PF00561;	1HLG;	reviewed		Acidic_Lipase
+P11150	LIPC_HUMAN	Homo sapiens (Human)	499	3.1.1.3; 3.1.1.32; 3.1.1.5	PF00151;PF01477;		reviewed		Hepatic_Lipase
+P16233	LIPP_HUMAN	Homo sapiens (Human)	465	3.1.1.3	PF00151;PF01477;	1GPL;1LPA;1LPB;1N8S;	reviewed		Pancreatic_lipase
+P19835	CEL_HUMAN	Homo sapiens (Human)	753	3.1.1.13; 3.1.1.3; 3.1.1.6	PF00135;PF16058;	1F6W;1JMY;6H0T;6H0V;6H18;6H19;6H1A;	reviewed		Cholesterol_esterase
+P22760	AAAD_HUMAN	Homo sapiens (Human)	399	3.1.1.3	PF07859;		reviewed		Arylacetamide_deacetylase
+P41247	PLPL4_HUMAN	Homo sapiens (Human)	253	3.1.1.3; 3.1.1.4	PF01734;		reviewed		
+P54317	LIPR2_HUMAN	Homo sapiens (Human)	469	3.1.1.26; 3.1.1.3	PF00151;PF01477;	2OXE;2PVS;	reviewed		Pancreatic_lipase
+Q5VXI9	LIPN_HUMAN	Homo sapiens (Human)	398	3.1.1.13; 3.1.1.3	PF00561;		reviewed		Acidic_Lipase
+Q6P1J6	PLB1_HUMAN	Homo sapiens (Human)	1458	3.1.1.3; 3.1.1.4; 3.1.1.5	PF00657;		reviewed		
+Q8NCG7	DGLB_HUMAN	Homo sapiens (Human)	672	3.1.1.116; 3.1.1.3	PF01764;		reviewed		Lipase_3
+Q96AD5	PLPL2_HUMAN	Homo sapiens (Human)	504	3.1.1.3; 3.1.1.4	PF01734;		reviewed		
+Q9NST1	PLPL3_HUMAN	Homo sapiens (Human)	481	2.3.1.51; 3.1.1.3; 3.1.1.4	PF01734;		reviewed		
+Q9Y5X9	LIPG_HUMAN	Homo sapiens (Human)	500	3.1.1.3; 3.1.1.32	PF00151;PF01477;		reviewed		Lipoprotein_Lipase
+Q64285	CEL_MOUSE	Mus musculus (Mouse)	599	3.1.1.13; 3.1.1.3; 3.1.1.6	PF00135;		reviewed		Cholesterol_esterase
+Q99PG0	AAAD_MOUSE	Mus musculus (Mouse)	398	3.1.1.3	PF07859;		reviewed		Arylacetamide_deacetylase
+O54728	PLB1_RAT	Rattus norvegicus (Rat)	1450	3.1.1.3; 3.1.1.4; 3.1.1.5	PF00657;		reviewed		
+P04634	LIPF_RAT	Rattus norvegicus (Rat)	395	3.1.1.3	PF04083;		reviewed		Acidic_Lipase
+P0C548	PLPL2_RAT	Rattus norvegicus (Rat)	478	3.1.1.3; 3.1.1.4	PF01734;		reviewed		
+Q8VBX1	LIPG_RAT	Rattus norvegicus (Rat)	493	3.1.1.3; 3.1.1.32	PF00151;PF01477;		reviewed		Lipoprotein_Lipase
+P40308	TGL3_YEAST	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	642	3.1.1.3	PF11815;PF01734;		reviewed		
+P54857	TGL2_YEAST	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	326	3.1.1.3	PF02089;		reviewed		PGAP1

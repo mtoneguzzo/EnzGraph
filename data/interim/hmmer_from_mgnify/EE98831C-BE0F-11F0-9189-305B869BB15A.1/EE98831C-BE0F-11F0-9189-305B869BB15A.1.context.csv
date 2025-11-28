@@ -1,0 +1,255 @@
+Assembly,Biome_ID
+ERZ1022745,root:Environmental:Aquatic:Freshwater:Lake
+ERZ1022771,root:Environmental:Aquatic:Freshwater:Lake
+ERZ1022775,root:Environmental:Aquatic:Freshwater:Lake
+ERZ1022779,root:Environmental:Aquatic:Freshwater:Lake
+ERZ1022813,root:Environmental:Aquatic:Freshwater:Lake
+ERZ1023170,root:Host-associated:Human:Skin
+ERZ1023177,root:Host-associated:Human:Skin
+ERZ1023359,root:Host-associated:Human:Skin
+ERZ1023384,root:Host-associated:Human:Skin
+ERZ1029865,root:Host-associated:Human:Skin
+ERZ1029954,root:Host-associated:Human:Skin
+ERZ1030018,root:Host-associated:Human:Skin
+ERZ1030020,root:Host-associated:Human:Skin
+ERZ1030068,root:Host-associated:Human:Skin
+ERZ1030236,root:Engineered:Built environment
+ERZ1030262,root:Engineered:Built environment
+ERZ1030268,root:Engineered:Built environment
+ERZ1030276,root:Engineered:Built environment
+ERZ1030305,root:Host-associated:Human:Skin
+ERZ1031121,root:Host-associated:Human:Skin
+ERZ1031154,root:Host-associated:Human:Skin
+ERZ1031172,root:Host-associated:Human:Skin
+ERZ1031185,root:Host-associated:Human:Skin
+ERZ1031201,root:Host-associated:Human:Skin
+ERZ1031233,root:Host-associated:Human:Skin
+ERZ1031272,root:Host-associated:Human:Skin
+ERZ1031280,root:Host-associated:Human:Skin
+ERZ1031296,root:Host-associated:Human:Skin
+ERZ1031308,root:Host-associated:Human:Skin
+ERZ1032833,root:Host-associated:Human:Digestive system:Large intestine:Fecal
+ERZ1036380,root:Host-associated:Human:Skin
+ERZ1048686,root:Environmental:Aquatic:Marine:Oceanic
+ERZ10545953,root:Environmental:Terrestrial:Soil:Oil-contaminated
+ERZ10545954,root:Engineered:Solid waste:Composting
+ERZ1066139,root:Environmental:Aquatic:Freshwater
+ERZ1292642,root:Environmental:Aquatic:Freshwater:Groundwater
+ERZ1463028,root:Host-associated:Human:Digestive system
+ERZ1463035,root:Host-associated:Human:Digestive system
+ERZ1505396,root:Engineered:Wastewater
+ERZ1505399,root:Engineered:Wastewater
+ERZ1505400,root:Engineered:Wastewater
+ERZ1505401,root:Engineered:Wastewater
+ERZ1505402,root:Engineered:Wastewater
+ERZ1505408,root:Host-associated:Plants:Rhizosphere
+ERZ1505411,root:Host-associated:Plants:Rhizosphere
+ERZ1687907,root:Environmental:Aquatic:Estuary:Sediment
+ERZ1714334,root:Engineered:Wastewater:Water and sludge
+ERZ1749008,root:Environmental:Aquatic:Marine:Oceanic
+ERZ1756900,root:Environmental:Aquatic:Marine:Oceanic
+ERZ1758449,root:Environmental:Aquatic:Freshwater:Drinking water:Delivery networks
+ERZ1764613,root:Engineered:Wastewater:Nutrient removal:Biological phosphorus removal:Activated sludge
+ERZ1793602,root:Environmental:Aquatic
+ERZ2227828,root:Mixed
+ERZ2227954,root:Mixed
+ERZ2228049,root:Mixed
+ERZ2270386,root:Mixed
+ERZ2270666,root:Mixed
+ERZ2270687,root:Mixed
+ERZ2270793,root:Mixed
+ERZ2271145,root:Mixed
+ERZ2271310,root:Mixed
+ERZ2271340,root:Mixed
+ERZ2271464,root:Mixed
+ERZ2271710,root:Mixed
+ERZ2271726,root:Mixed
+ERZ2271742,root:Mixed
+ERZ2271960,root:Mixed
+ERZ2272075,root:Mixed
+ERZ2272173,root:Mixed
+ERZ2272263,root:Mixed
+ERZ2272274,root:Mixed
+ERZ2272342,root:Mixed
+ERZ2272392,root:Mixed
+ERZ2272495,root:Mixed
+ERZ2272536,root:Mixed
+ERZ2272596,root:Mixed
+ERZ2272608,root:Mixed
+ERZ2272636,root:Mixed
+ERZ2272715,root:Mixed
+ERZ3421860,root:Environmental:Aquatic:Marine
+ERZ3422165,root:Environmental:Aquatic:Marine
+ERZ3455847,root:Engineered:Wastewater:Water and sludge
+ERZ3455852,root:Engineered:Wastewater:Water and sludge
+ERZ3455856,root:Engineered:Wastewater:Water and sludge
+ERZ3455858,root:Engineered:Wastewater:Water and sludge
+ERZ3455859,root:Engineered:Wastewater:Water and sludge
+ERZ3820705,root:Host-associated:Plants:Rhizosphere
+ERZ4291122,root:Environmental:Aquatic:Marine:Marginal Sea
+ERZ4560311,root:Host-associated:Human:Digestive system
+ERZ4560480,root:Host-associated:Human:Digestive system
+ERZ500977,root:Host-associated:Human:Skin
+ERZ500994,root:Host-associated:Human:Skin
+ERZ501000,root:Host-associated:Human:Skin
+ERZ501005,root:Host-associated:Human:Skin
+ERZ501011,root:Host-associated:Human:Skin
+ERZ501035,root:Host-associated:Human:Skin
+ERZ501064,root:Host-associated:Human:Skin
+ERZ505209,root:Environmental:Aquatic:Marine
+ERZ505219,root:Environmental:Aquatic:Marine
+ERZ505221,root:Environmental:Aquatic:Marine
+ERZ505222,root:Environmental:Aquatic:Marine
+ERZ505226,root:Environmental:Aquatic:Marine
+ERZ505227,root:Environmental:Aquatic:Marine
+ERZ505230,root:Environmental:Aquatic:Marine
+ERZ505234,root:Environmental:Aquatic:Marine
+ERZ505235,root:Environmental:Aquatic:Marine
+ERZ505238,root:Environmental:Aquatic:Marine
+ERZ505241,root:Environmental:Aquatic:Marine
+ERZ505243,root:Environmental:Aquatic:Marine
+ERZ505245,root:Environmental:Aquatic:Marine
+ERZ505283,root:Environmental:Aquatic:Marine
+ERZ5510236,root:Environmental:Terrestrial:Soil
+ERZ650159,root:Environmental:Aquatic:Aquaculture
+ERZ650162,root:Environmental:Aquatic:Aquaculture
+ERZ650228,root:Engineered:Bioremediation:Terephthalate:Wastewater
+ERZ650230,root:Engineered:Bioremediation:Terephthalate:Wastewater
+ERZ650241,root:Engineered:Bioremediation:Terephthalate:Wastewater
+ERZ650243,root:Engineered:Bioremediation:Terephthalate:Wastewater
+ERZ650245,root:Engineered:Bioremediation:Terephthalate:Wastewater
+ERZ650250,root:Engineered:Bioremediation:Terephthalate:Wastewater
+ERZ650252,root:Engineered:Bioremediation:Terephthalate:Wastewater
+ERZ650258,root:Engineered:Bioremediation:Terephthalate:Wastewater
+ERZ650264,root:Engineered:Bioremediation:Terephthalate:Wastewater
+ERZ650265,root:Engineered:Bioremediation:Terephthalate:Wastewater
+ERZ650268,root:Engineered:Bioremediation:Terephthalate:Wastewater
+ERZ650269,root:Engineered:Bioremediation:Terephthalate:Wastewater
+ERZ650271,root:Engineered:Bioremediation:Terephthalate:Wastewater
+ERZ650274,root:Engineered:Bioremediation:Terephthalate:Wastewater
+ERZ650281,root:Engineered:Bioremediation:Terephthalate:Wastewater
+ERZ650282,root:Engineered:Bioremediation:Terephthalate:Wastewater
+ERZ650283,root:Engineered:Bioremediation:Terephthalate:Wastewater
+ERZ650289,root:Engineered:Bioremediation:Terephthalate:Wastewater
+ERZ650290,root:Engineered:Bioremediation:Terephthalate:Wastewater
+ERZ650292,root:Engineered:Bioremediation:Terephthalate:Wastewater
+ERZ650298,root:Engineered:Bioremediation:Terephthalate:Wastewater
+ERZ650299,root:Engineered:Bioremediation:Terephthalate:Wastewater
+ERZ650309,root:Engineered:Bioremediation:Terephthalate:Wastewater
+ERZ650311,root:Engineered:Bioremediation:Terephthalate:Wastewater
+ERZ724020,root:Engineered:Wastewater:Industrial wastewater
+ERZ724079,root:Engineered:Bioreactor
+ERZ724084,root:Engineered:Bioreactor
+ERZ724085,root:Engineered:Bioreactor
+ERZ724086,root:Engineered:Bioreactor
+ERZ724089,root:Engineered:Bioreactor
+ERZ724502,root:Engineered:Wastewater
+ERZ724503,root:Engineered:Wastewater
+ERZ724512,root:Engineered:Wastewater
+ERZ724513,root:Engineered:Wastewater
+ERZ724514,root:Engineered:Wastewater
+ERZ724515,root:Engineered:Wastewater
+ERZ724518,root:Engineered:Wastewater
+ERZ724526,root:Engineered:Wastewater
+ERZ724528,root:Engineered:Wastewater
+ERZ724531,root:Engineered:Wastewater
+ERZ724532,root:Engineered:Wastewater
+ERZ724534,root:Engineered:Wastewater
+ERZ724540,root:Engineered:Wastewater
+ERZ724544,root:Engineered:Wastewater
+ERZ724545,root:Engineered:Wastewater
+ERZ724550,root:Engineered:Wastewater
+ERZ724553,root:Engineered:Wastewater
+ERZ724557,root:Engineered:Wastewater
+ERZ747220,root:Engineered:Biogas plant
+ERZ761564,root:Engineered:Wastewater:Activated Sludge
+ERZ761573,root:Host-associated:Plants
+ERZ761577,root:Engineered:Solid waste:Composting
+ERZ764730,root:Engineered:Wastewater:Activated Sludge
+ERZ764825,root:Engineered:Bioreactor
+ERZ764845,root:Engineered:Bioreactor
+ERZ772708,root:Engineered:Wastewater:Activated Sludge
+ERZ773281,root:Engineered:Wastewater:Activated Sludge
+ERZ773282,root:Engineered:Wastewater:Activated Sludge
+ERZ773283,root:Engineered:Wastewater:Activated Sludge
+ERZ773284,root:Engineered:Wastewater:Activated Sludge
+ERZ773360,root:Engineered:Bioreactor
+ERZ777003,root:Engineered:Bioreactor
+ERZ777010,root:Engineered:Bioreactor
+ERZ778019,root:Engineered:Bioreactor
+ERZ778035,root:Engineered:Bioreactor
+ERZ778036,root:Engineered:Wastewater:Activated Sludge
+ERZ778037,root:Engineered:Wastewater:Activated Sludge
+ERZ778038,root:Engineered:Wastewater:Activated Sludge
+ERZ778520,root:Host-associated:Plants:Root
+ERZ778523,root:Host-associated:Plants:Root
+ERZ780653,root:Host-associated:Plants:Rhizosphere
+ERZ780663,root:Host-associated:Plants:Rhizosphere
+ERZ780666,root:Host-associated:Plants:Rhizosphere
+ERZ781244,root:Host-associated:Plants
+ERZ781402,root:Engineered:Wastewater
+ERZ781403,root:Engineered:Wastewater
+ERZ794912,root:Engineered:Wastewater:Activated Sludge
+ERZ794914,root:Engineered:Wastewater:Activated Sludge
+ERZ794918,root:Engineered:Wastewater:Activated Sludge
+ERZ794928,root:Engineered:Wastewater:Activated Sludge
+ERZ794949,root:Engineered:Food production:Fermented beverages
+ERZ794950,root:Engineered:Food production:Fermented beverages
+ERZ794971,root:Engineered:Solid waste:Composting
+ERZ794972,root:Engineered:Solid waste:Composting
+ERZ794977,root:Engineered:Solid waste:Composting
+ERZ795017,root:Engineered:Wastewater:Industrial wastewater
+ERZ795018,root:Engineered:Wastewater:Industrial wastewater
+ERZ795019,root:Engineered:Wastewater:Industrial wastewater
+ERZ795029,root:Engineered:Wastewater:Activated Sludge
+ERZ795034,root:Engineered:Bioreactor
+ERZ795037,root:Engineered:Bioreactor
+ERZ795041,root:Engineered:Wastewater:Activated Sludge
+ERZ795053,root:Engineered:Wastewater:Activated Sludge
+ERZ795056,root:Engineered:Wastewater:Activated Sludge
+ERZ795059,root:Engineered:Wastewater:Activated Sludge
+ERZ795061,root:Engineered:Wastewater:Activated Sludge
+ERZ795062,root:Engineered:Wastewater:Activated Sludge
+ERZ795065,root:Engineered:Bioreactor
+ERZ795068,root:Engineered:Bioreactor
+ERZ795069,root:Engineered:Bioreactor
+ERZ795070,root:Engineered:Bioreactor
+ERZ795071,root:Engineered:Bioreactor
+ERZ795072,root:Engineered:Bioreactor
+ERZ795073,root:Engineered:Bioreactor
+ERZ795074,root:Engineered:Food production:Fermented beverages
+ERZ795111,root:Environmental:Aquatic:Freshwater
+ERZ795387,root:Engineered:Solid waste:Composting
+ERZ795389,root:Engineered:Wastewater:Activated Sludge
+ERZ838136,root:Environmental:Aquatic:Marine:Oceanic
+ERZ840511,root:Environmental:Aquatic:Marine:Oceanic
+ERZ840537,root:Environmental:Aquatic:Marine:Oceanic
+ERZ840577,root:Environmental:Aquatic:Marine
+ERZ841497,root:Environmental:Aquatic:Marine:Oceanic
+ERZ841824,root:Environmental:Aquatic:Marine:Oceanic
+ERZ841934,root:Environmental:Aquatic:Marine:Oceanic
+ERZ843524,root:Environmental:Aquatic:Marine:Oceanic
+ERZ858510,root:Engineered:Bioreactor
+ERZ859223,root:Environmental:Aquatic:Marine:Oceanic
+ERZ8868305,root:Environmental:Aquatic:Marine
+ERZ8868561,root:Environmental:Aquatic:Marine
+ERZ8868625,root:Environmental:Aquatic:Marine
+ERZ887841,root:Environmental:Aquatic:Marine:Oceanic
+ERZ887843,root:Environmental:Aquatic:Marine:Oceanic
+ERZ887849,root:Environmental:Aquatic:Marine
+ERZ887851,root:Environmental:Aquatic:Marine:Oceanic
+ERZ888145,root:Environmental:Aquatic:Marine:Oceanic
+ERZ888219,root:Environmental:Aquatic:Marine:Oceanic
+ERZ888341,root:Environmental:Aquatic:Marine:Oceanic
+ERZ888423,root:Environmental:Aquatic:Marine
+ERZ888641,root:Environmental:Aquatic:Marine:Oceanic
+ERZ888833,root:Environmental:Aquatic:Marine:Oceanic
+ERZ888984,root:Environmental:Aquatic:Marine:Oceanic
+ERZ889078,root:Environmental:Aquatic:Marine
+ERZ889217,root:Environmental:Aquatic:Marine:Oceanic
+ERZ890044,root:Environmental:Aquatic:Marine:Oceanic
+ERZ890250,root:Environmental:Aquatic:Marine:Oceanic
+ERZ891023,root:Environmental:Aquatic:Marine:Oceanic
+ERZ941573,root:Host-associated:Human:Skin
+ERZ941728,root:Host-associated:Human:Skin
+ERZ9869192,root:Environmental:Aquatic:Marine
