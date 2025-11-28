@@ -1,0 +1,14 @@
+{
+  "ec": "3.1.1.102",
+  "n_sequences": 1,
+  "has_pfam": true,
+  "top_pfams": {
+    "PF07519": 1
+  },
+  "plots": {
+    "pfam_top": "EC3.1.1.102.pfam_top.png",
+    "organisms_top": null,
+    "length_hist": "EC3.1.1.102.length_hist.png"
+  },
+  "indir": "/Users/mora.toneguzzo/Documents/Documents_sync/MSc_Bioinformatics/2nd_year/1S/Integrated_Project/Assignment/Int_Project/bionexus/BioNexus/data/reference_data/EC3.1.1.102"
+}

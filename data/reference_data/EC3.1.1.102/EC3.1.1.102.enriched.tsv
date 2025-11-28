@@ -1,0 +1,2 @@
+acc	entry	protein	gene	organism	taxid	length	ec_list	pfam_list	interpro_list	pdb_list	go_mf	go_bp	reviewed	xref_cazy	xref_esther
+A0A0K8P8E7	MHETH_PISS1	Mono(2-hydroxyethyl) terephthalate hydrolase (MHET hydrolase) (MHETase) (EC 3.1.1.102)		Piscinibacter sakaiensis (Ideonella sakaiensis)	1547922	603	3.1.1.102	PF07519;	IPR029058;IPR011118;	6JTT;6JTU;6QG9;6QGA;6QGB;6QZ1;6QZ2;6QZ3;6QZ4;8EKG;	carboxylic ester hydrolase activity [GO:0052689]; metal ion binding [GO:0046872]	xenobiotic catabolic process [GO:0042178]	reviewed		Tannase
