@@ -172,3 +172,209 @@ ERZ4561039,root:Host-associated:Human:Digestive system
 ERZ4787356,root:Environmental:Aquatic:Non-marine Saline and Alkaline
 ERZ4873493,root:Environmental:Aquatic:Marine
 ERZ4874060,root:Environmental:Aquatic:Marine
+ERZ4874638,root:Environmental:Aquatic:Marine
+ERZ4891813,root:Engineered:Lab enrichment:Defined media
+ERZ501064,root:Host-associated:Human:Skin
+ERZ501118,root:Host-associated:Human:Digestive system
+ERZ501120,root:Host-associated:Human:Digestive system
+ERZ505217,root:Environmental:Aquatic:Marine
+ERZ505252,root:Environmental:Aquatic:Marine
+ERZ505259,root:Environmental:Aquatic:Marine
+ERZ505383,root:Environmental:Aquatic:Marine
+ERZ508519,root:Environmental:Aquatic:Marine
+ERZ508520,root:Environmental:Aquatic:Marine
+ERZ508535,root:Environmental:Aquatic:Marine
+ERZ508548,root:Environmental:Aquatic:Marine:Sediment
+ERZ508559,root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+ERZ508596,root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+ERZ508608,root:Environmental:Aquatic:Marine
+ERZ510997,root:Environmental:Aquatic:Marine:Oceanic:Oil-contaminated
+ERZ510998,root:Environmental:Aquatic:Marine:Oceanic:Oil-contaminated
+ERZ510999,root:Environmental:Aquatic:Marine:Oceanic:Oil-contaminated
+ERZ511465,root:Environmental:Aquatic:Marine:Sediment
+ERZ511466,root:Environmental:Aquatic:Marine:Sediment
+ERZ511468,root:Environmental:Aquatic:Marine:Sediment
+ERZ511469,root:Environmental:Aquatic:Marine:Sediment
+ERZ511474,root:Environmental:Aquatic:Thermal springs:Sediment
+ERZ511480,root:Host-associated:Algae:Red algae
+ERZ511489,root:Environmental:Aquatic:Marine
+ERZ534229,root:Environmental:Aquatic:Marine:Sediment
+ERZ650155,root:Environmental:Aquatic:Aquaculture
+ERZ650156,root:Environmental:Aquatic:Aquaculture
+ERZ650157,root:Environmental:Aquatic:Aquaculture
+ERZ650158,root:Environmental:Aquatic:Aquaculture
+ERZ650159,root:Environmental:Aquatic:Aquaculture
+ERZ650160,root:Environmental:Aquatic:Aquaculture
+ERZ650161,root:Environmental:Aquatic:Aquaculture
+ERZ650162,root:Environmental:Aquatic:Aquaculture
+ERZ650164,root:Environmental:Aquatic:Aquaculture
+ERZ650200,root:Environmental:Aquatic:Estuary:Sediment
+ERZ650204,root:Environmental:Aquatic:Estuary:Sediment
+ERZ650238,root:Engineered:Bioremediation:Terephthalate:Wastewater
+ERZ650250,root:Engineered:Bioremediation:Terephthalate:Wastewater
+ERZ650271,root:Engineered:Bioremediation:Terephthalate:Wastewater
+ERZ650296,root:Engineered:Bioremediation:Terephthalate:Wastewater
+ERZ650340,root:Environmental:Aquatic:Marine:Brackish
+ERZ650344,root:Environmental:Aquatic:Marine:Brackish
+ERZ650667,root:Environmental:Aquatic:Marine:Brackish
+ERZ650668,root:Environmental:Aquatic:Marine:Brackish
+ERZ650669,root:Environmental:Aquatic:Thermal springs:Near-boiling (>90C):Alkaline
+ERZ651772,root:Environmental:Aquatic:Marine:Intertidal zone:Estuary
+ERZ724034,root:Engineered:Food production:Fermented beverages
+ERZ724520,root:Engineered:Wastewater
+ERZ724532,root:Engineered:Wastewater
+ERZ724544,root:Engineered:Wastewater
+ERZ724549,root:Engineered:Wastewater
+ERZ7462166,root:Environmental:Aquatic:Marine:Oceanic
+ERZ7462167,root:Environmental:Aquatic:Marine:Oceanic
+ERZ7462186,root:Environmental:Aquatic:Marine:Oceanic
+ERZ7462236,root:Environmental:Aquatic:Marine:Oceanic
+ERZ7462497,root:Environmental:Aquatic:Marine
+ERZ7462600,root:Environmental:Aquatic:Marine
+ERZ7462634,root:Environmental:Aquatic:Marine
+ERZ7462638,root:Environmental:Aquatic:Marine
+ERZ7462743,root:Environmental:Aquatic:Marine:Oceanic
+ERZ7462777,root:Environmental:Aquatic:Marine
+ERZ7462832,root:Environmental:Aquatic:Marine:Oceanic
+ERZ7462853,root:Environmental:Aquatic:Marine:Oceanic
+ERZ7462993,root:Environmental:Aquatic:Marine
+ERZ7463021,root:Environmental:Aquatic:Marine
+ERZ7463072,root:Environmental:Aquatic:Marine:Oceanic
+ERZ7463110,root:Environmental:Aquatic:Marine:Oceanic
+ERZ7463206,root:Environmental:Aquatic:Marine:Oceanic
+ERZ7463217,root:Environmental:Aquatic:Marine:Oceanic
+ERZ7463454,root:Environmental:Aquatic:Marine
+ERZ7463456,root:Environmental:Aquatic:Marine:Oceanic
+ERZ7463457,root:Environmental:Aquatic:Marine:Oceanic
+ERZ7463532,root:Environmental:Aquatic:Marine:Oceanic
+ERZ7463781,root:Environmental:Aquatic:Marine:Oceanic
+ERZ747220,root:Engineered:Biogas plant
+ERZ747221,root:Engineered:Biogas plant
+ERZ7512791,root:Environmental:Aquatic:Marine:Oceanic
+ERZ767019,root:Environmental:Aquatic:Marine:Oceanic
+ERZ767080,root:Environmental:Aquatic:Estuary
+ERZ772708,root:Engineered:Wastewater:Activated Sludge
+ERZ773285,root:Engineered:Bioreactor
+ERZ773360,root:Engineered:Bioreactor
+ERZ777003,root:Engineered:Bioreactor
+ERZ778021,root:Engineered:Bioreactor
+ERZ778028,root:Engineered:Bioreactor
+ERZ778031,root:Engineered:Bioreactor
+ERZ778034,root:Engineered:Bioreactor
+ERZ778039,root:Engineered:Bioreactor
+ERZ778040,root:Engineered:Bioreactor
+ERZ778524,root:Engineered:Biogas plant:Wet fermentation
+ERZ780236,root:Engineered:Bioreactor
+ERZ780652,root:Host-associated:Plants:Rhizosphere
+ERZ780665,root:Host-associated:Plants:Rhizosphere
+ERZ781244,root:Host-associated:Plants
+ERZ781361,root:Environmental:Aquatic:Freshwater:Lentic:Sediment
+ERZ781362,root:Environmental:Aquatic:Marine
+ERZ781363,root:Environmental:Aquatic:Marine
+ERZ781365,root:Environmental:Aquatic:Marine
+ERZ781366,root:Environmental:Aquatic:Marine
+ERZ781368,root:Environmental:Aquatic:Marine
+ERZ781378,root:Environmental:Aquatic:Marine
+ERZ781385,root:Environmental:Aquatic:Marine:Oceanic
+ERZ781386,root:Environmental:Aquatic:Marine:Oceanic
+ERZ781397,root:Environmental:Aquatic:Freshwater:Lentic:Sediment
+ERZ782921,root:Engineered:Solid waste:Landfill
+ERZ791560,root:Environmental:Aquatic:Thermal springs:Hot (42-90C)
+ERZ791561,root:Environmental:Aquatic:Marine:Oceanic
+ERZ791565,root:Environmental:Aquatic:Marine:Pelagic
+ERZ791567,root:Environmental:Aquatic:Marine:Pelagic
+ERZ794930,root:Engineered:Wastewater:Activated Sludge
+ERZ794970,root:Engineered:Solid waste:Composting
+ERZ794971,root:Engineered:Solid waste:Composting
+ERZ794972,root:Engineered:Solid waste:Composting
+ERZ794974,root:Engineered:Solid waste:Composting
+ERZ794977,root:Engineered:Solid waste:Composting
+ERZ794981,root:Engineered:Solid waste:Composting
+ERZ795031,root:Engineered:Wastewater:Activated Sludge
+ERZ795038,root:Engineered:Bioreactor
+ERZ795042,root:Engineered:Solid waste:Composting
+ERZ795049,root:Engineered:Wastewater:Activated Sludge
+ERZ795050,root:Engineered:Wastewater:Activated Sludge
+ERZ795051,root:Engineered:Wastewater:Activated Sludge
+ERZ795052,root:Engineered:Wastewater:Activated Sludge
+ERZ795068,root:Engineered:Bioreactor
+ERZ795069,root:Engineered:Bioreactor
+ERZ795070,root:Engineered:Bioreactor
+ERZ795071,root:Engineered:Bioreactor
+ERZ795072,root:Engineered:Bioreactor
+ERZ795076,root:Engineered:Wastewater:Activated Sludge
+ERZ795077,root:Engineered:Bioreactor
+ERZ795387,root:Engineered:Solid waste:Composting
+ERZ795397,root:Engineered:Wastewater:Activated Sludge
+ERZ795401,root:Environmental:Aquatic:Freshwater:Groundwater
+ERZ795402,root:Environmental:Aquatic:Freshwater:Groundwater
+ERZ806375,root:Environmental:Aquatic:Marine
+ERZ807544,root:Host-associated:Plants:Rhizosphere
+ERZ829075,root:Environmental:Aquatic:Marine:Oceanic
+ERZ830869,root:Environmental:Aquatic:Marine:Oceanic
+ERZ831446,root:Environmental:Aquatic:Marine:Oceanic
+ERZ831745,root:Environmental:Aquatic:Marine:Oceanic
+ERZ832104,root:Environmental:Aquatic:Marine
+ERZ834656,root:Environmental:Aquatic:Marine:Oceanic
+ERZ836445,root:Environmental:Aquatic:Marine:Oceanic
+ERZ838136,root:Environmental:Aquatic:Marine:Oceanic
+ERZ840062,root:Environmental:Aquatic:Marine:Oceanic
+ERZ840547,root:Environmental:Aquatic:Marine:Oceanic
+ERZ840605,root:Environmental:Aquatic:Marine:Oceanic
+ERZ840905,root:Environmental:Aquatic:Marine:Oceanic
+ERZ840991,root:Environmental:Aquatic:Marine:Oceanic
+ERZ841010,root:Environmental:Aquatic:Marine
+ERZ841040,root:Environmental:Aquatic:Marine:Oceanic
+ERZ841327,root:Environmental:Aquatic:Marine:Oceanic
+ERZ841384,root:Environmental:Aquatic:Marine
+ERZ841394,root:Environmental:Aquatic:Marine:Oceanic
+ERZ841462,root:Environmental:Aquatic:Marine:Oceanic
+ERZ841489,root:Environmental:Aquatic:Marine:Oceanic
+ERZ841662,root:Environmental:Aquatic:Marine:Oceanic
+ERZ841907,root:Environmental:Aquatic:Marine
+ERZ841934,root:Environmental:Aquatic:Marine:Oceanic
+ERZ841987,root:Environmental:Aquatic:Marine:Oceanic
+ERZ842083,root:Environmental:Aquatic:Marine
+ERZ842085,root:Environmental:Aquatic:Marine:Oceanic
+ERZ842091,root:Environmental:Aquatic:Marine:Oceanic
+ERZ842135,root:Environmental:Aquatic:Marine
+ERZ842199,root:Environmental:Aquatic:Marine:Oceanic
+ERZ842408,root:Environmental:Aquatic:Marine:Oceanic
+ERZ842555,root:Environmental:Aquatic:Marine:Oceanic
+ERZ843524,root:Environmental:Aquatic:Marine:Oceanic
+ERZ858432,root:Engineered:Bioreactor
+ERZ858469,root:Engineered:Bioreactor
+ERZ858510,root:Engineered:Bioreactor
+ERZ859145,root:Environmental:Aquatic:Marine:Oceanic
+ERZ859329,root:Environmental:Aquatic:Marine:Oceanic
+ERZ859341,root:Environmental:Aquatic:Marine:Oceanic
+ERZ869903,root:Engineered:Bioreactor
+ERZ869905,root:Engineered:Bioreactor
+ERZ869909,root:Engineered:Bioreactor
+ERZ869912,root:Engineered:Bioreactor
+ERZ869927,root:Engineered:Bioreactor
+ERZ869933,root:Engineered:Bioreactor
+ERZ8868305,root:Environmental:Aquatic:Marine
+ERZ8868456,root:Environmental:Aquatic:Marine
+ERZ8868457,root:Environmental:Aquatic:Marine
+ERZ8868524,root:Environmental:Aquatic:Marine
+ERZ8868561,root:Environmental:Aquatic:Marine
+ERZ8868578,root:Environmental:Aquatic:Marine
+ERZ887845,root:Environmental:Aquatic:Marine:Oceanic
+ERZ890250,root:Environmental:Aquatic:Marine:Oceanic
+ERZ9422116,root:Environmental:Aquatic:Freshwater:Lentic
+ERZ9422153,root:Environmental:Aquatic:Freshwater:Lentic
+ERZ9422224,root:Environmental:Aquatic:Freshwater:Lentic
+ERZ9422330,root:Environmental:Aquatic:Freshwater:Lentic
+ERZ9422382,root:Environmental:Aquatic:Freshwater:Lentic
+ERZ9422401,root:Environmental:Aquatic:Freshwater:Lentic
+ERZ9422407,root:Environmental:Aquatic:Freshwater:Lentic
+ERZ9422438,root:Environmental:Aquatic:Freshwater:Lentic
+ERZ9422643,root:Environmental:Aquatic:Freshwater:Lentic
+ERZ9422680,root:Environmental:Aquatic:Freshwater:Lentic
+ERZ9422699,root:Environmental:Aquatic:Freshwater:Lentic
+ERZ9422821,root:Environmental:Aquatic:Freshwater:Lentic
+ERZ9422858,root:Environmental:Aquatic:Freshwater:Lentic
+ERZ9422891,root:Environmental:Aquatic:Freshwater:Lentic
+ERZ9422912,root:Environmental:Aquatic:Freshwater:Lentic
+ERZ9423135,root:Environmental:Aquatic:Marine
